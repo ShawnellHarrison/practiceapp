@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414793746426",
+    "project_id": "hells-belles-tp0p30",
+    "storage_bucket": "hells-belles-tp0p30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414793746426:android:978c52ea5b09f5860d0643",
+        "android_client_info": {
+          "package_name": "com.mycompany.hellsbelles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxLRG1tPKmiudvjNBikFeHQFxcwvwTXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
